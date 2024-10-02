@@ -30,3 +30,6 @@
 
 - 1주차
 - 2주차
+
+## 코딩테스트 공부법
+https://github.com/user-attachments/assets/6eb885a7-9012-4d64-8ebf-6a591710b4e5
