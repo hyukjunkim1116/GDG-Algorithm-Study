@@ -32,4 +32,4 @@
 - 2주차
 
 ## 코딩테스트 공부법
-https://github.com/user-attachments/assets/6eb885a7-9012-4d64-8ebf-6a591710b4e5
+![코테 공부법](https://github.com/user-attachments/assets/fdec2f3f-60d7-4d71-a193-8ca33fc19d50)
