@@ -14,7 +14,7 @@
 
 |                                                        **박인재**                                                         |                                                        **권현욱**                                                         |                                                        **신민규**                                                         |
 | :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: |
-| [<img src="https://picsum.photos/200/200" height=200 width=200> <br/> @hyukjunkim1116](https://github.com/hyukjunkim1116) | [<img src="https://avatars.githubusercontent.com/u/113490741?s=400&u=6b60d3694e7cb946d119a2015d407819680a588a&v=4/200/200" height=200 width=200> <br/> @hyukwon](https://github.com/woogie01) | [<img src="https://picsum.photos/200/200" height=200 width=200> <br/> @hyukjunkim1116](https://github.com/hyukjunkim1116) |
+| [<img src="https://github.com/user-attachments/assets/8e3920b3-a4fa-410e-bf7a-fa267d98fd34" height=200 width=200> <br/> @jaypaak](https://github.com/jaypaak) | [<img src="https://avatars.githubusercontent.com/u/113490741?s=400&u=6b60d3694e7cb946d119a2015d407819680a588a&v=4/200/200" height=200 width=200> <br/> @hyukwon](https://github.com/woogie01) | [<img src="https://picsum.photos/200/200" height=200 width=200> <br/> @hyukjunkim1116](https://github.com/hyukjunkim1116) |
 
 </div>
 
