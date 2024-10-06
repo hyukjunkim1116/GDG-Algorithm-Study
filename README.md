@@ -32,7 +32,7 @@
 
 ## 💬 알고리즘 블로그 링크
 
-- 1주차
+- [1주차](https://velog.io/@rlagurwns112/%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-1%EC%A3%BC%EC%B0%A8)
 - 2주차
 
 ## 👏 알고리즘 공부 방법
