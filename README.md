@@ -33,7 +33,9 @@
 ## 💬 알고리즘 정리 링크
 
 - [1주차](https://velog.io/@rlagurwns112/%EC%BD%94%ED%85%8C-%EC%8A%A4%ED%84%B0%EB%94%94-1%EC%A3%BC%EC%B0%A8)
-- 2주차
+- [2주차](https://velog.io/@rlagurwns112/%EB%B0%B0%EC%97%B4%EA%B3%BC-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EA%B5%AC%EA%B0%84-%ED%95%A9%EC%8A%A4%ED%83%9D%EA%B3%BC-%ED%81%90%EB%B2%84%EB%B8%94-%EC%A0%95%EB%A0%AC-%EC%8A%A4%ED%84%B0%EB%94%94-2%EC%A3%BC%EC%B0%A8)
+- 3주차
+- 4주차
 
 ## 👏 알고리즘 공부 방법
 
